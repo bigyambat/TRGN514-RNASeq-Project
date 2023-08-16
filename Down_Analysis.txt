@@ -1,0 +1,419 @@
+© 2000-2022 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Developmental Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Congenital anomaly of finger	3.03E-05	ADRA2B,HPGD	2
+Molecular Transport	Import of K+	1.27E-04	KCNJ1,KCNJ5	2
+Molecular Transport	Transport of K+	2.01E-04	KCNA2,KCNJ1,KCNJ5	3
+Cardiovascular Disease,Organismal Injury and Abnormalities	Recurrent tachyarrhythmia	2.54E-04	ADRA2B,KCNJ5	2
+Cardiovascular Disease,Organismal Injury and Abnormalities	Congestive heart failure	2.61E-04	ADRA2B,HPGD,KCNJ5	3
+Cardiovascular Disease,Organismal Injury and Abnormalities	Severe ventricular arrhythmia	3.82E-04	ADRA2B,KCNJ5	2
+Hematological System Development and Function,Immunological Disease,Lymphoid Tissue Structure and Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Morphology	Abnormal morphology of mesenteric lymph node	4.03E-04	RNF128,TNFSF14	2
+Cellular Development,Cellular Growth and Proliferation,Hematological System Development and Function,Lymphoid Tissue Structure and Development	Proliferation of naive T lymphocytes	5.13E-04	RNF128,TNFSF14	2
+Developmental Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Congenital anomaly of digit	6.17E-04	ADRA2B,DYNLT2B,HPGD	3
+Cardiovascular Disease,Organismal Injury and Abnormalities	Endothelial dysfunction	7.17E-04	ADRA2B,KCNJ1	2
+Cell-To-Cell Signaling and Interaction	Attachment of bone cancer cell lines	7.65E-04	AFAP1L1	1
+Lipid Metabolism,Small Molecule Biochemistry	Conversion of 13,14-dihydro-15-oxo-lipoxin A4	7.65E-04	HPGD	1
+Cancer,Organismal Injury and Abnormalities	Metastatic spindle cell sarcoma	7.65E-04	AFAP1L1	1
+Nervous System Development and Function	Response of amygdala	7.65E-04	ADRA2B	1
+Lipid Metabolism,Small Molecule Biochemistry	Inactivation of prostaglandin	7.65E-04	HPGD	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Short-rib thoracic dysplasia 17 without polydactyly	7.65E-04	DYNLT2B	1
+Renal and Urological System Development and Function	Tubuloglomerular feedback of nephron	7.65E-04	KCNJ1	1
+Cancer,Organismal Injury and Abnormalities	Transformation of RPE cells	7.65E-04	PGBD5	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Autosomal recessive primary microcephaly type 23	7.65E-04	NCAPH	1
+Connective Tissue Disorders,Dermatological Diseases and Conditions,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Isolated congenital digital clubbing	7.65E-04	HPGD	1
+Endocrine System Disorders,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities	Familial hyperaldosteronism type III	7.65E-04	KCNJ5	1
+Developmental Disorder,Endocrine System Disorders,Hematological Disease,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities,Renal and Urological Disease	Bartter syndrome type 2	7.65E-04	KCNJ1	1
+Embryonic Development,Organ Development,Organ Morphology,Organismal Development,Respiratory System Development and Function,Tissue Development	Volume of pulmonary alveolus	7.65E-04	ADRA2B	1
+Cancer,Organismal Injury and Abnormalities,Renal and Urological Disease	Malignant renal cancer	7.65E-04	ZBTB7C	1
+Cancer,Cellular Movement,Developmental Disorder,Embryonic Development,Organismal Injury and Abnormalities	Invasion of mesenchymal stem cells	7.65E-04	AFAP1L1	1
+Connective Tissue Disorders,Dermatological Diseases and Conditions,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Autosomal recessive primary hypertrophic osteoarthropathy type 1	7.65E-04	HPGD	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities	Somatic aldosterone-producing adrenal adenoma	7.65E-04	KCNJ5	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Short-rib thoracic dysplasia type 17 with polydactyly	7.65E-04	DYNLT2B	1
+Developmental Disorder,Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities	Early infantile epileptic encephalopathy type 32	7.65E-04	KCNA2	1
+Cardiovascular Disease,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities	Long QT syndrome type 13	7.65E-04	KCNJ5	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Bradycardia	8.31E-04	ADRA2B,KCNJ5	2
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Familial congenital anomaly of limb	8.60E-04	ADRA2B,DYNLT2B,HPGD	3
+Cardiovascular Disease,Organismal Injury and Abnormalities	Cardiac arrest	8.61E-04	ADRA2B,KCNJ5	2
+Cardiovascular Disease,Organismal Injury and Abnormalities	Hemodynamic instability	1.08E-03	ADRA2B,KCNJ5	2
+Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Ventricular fibrillation	1.08E-03	ADRA2B,KCNJ5	2
+Cell Cycle	Entry into cell cycle progression of breast cancer cell lines	1.53E-03	HPGD	1
+Cardiovascular Disease,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities	Andersen syndrome	1.53E-03	KCNJ5	1
+Infectious Diseases,Organismal Injury and Abnormalities	Viral entry by human herpesvirus 1	1.53E-03	TNFSF14	1
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Silencing of neurons	1.53E-03	KCNJ1	1
+Organismal Injury and Abnormalities,Renal and Urological Disease	Kaluresis	1.53E-03	KCNJ1	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities	Aldosterone and cortisol producing adrenal cortical adenoma	1.53E-03	KCNJ5	1
+Drug Metabolism,Energy Production,Lipid Metabolism,Small Molecule Biochemistry	Oxidation of prostaglandin E2	1.53E-03	HPGD	1
+Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities	Adult familial myoclonic epilepsy type 2	1.53E-03	ADRA2B	1
+Cell-mediated Immune Response,Hematological System Development and Function	Anergy of peripheral T lymphocyte	1.53E-03	RNF128	1
+Molecular Transport	Secretion of K+	1.53E-03	KCNJ1	1
+Organ Morphology	Structural integrity of spleen	1.53E-03	TNFSF14	1
+Energy Production,Lipid Metabolism,Small Molecule Biochemistry	Oxidation of dinoprost	1.53E-03	HPGD	1
+Reproductive System Development and Function	Gestation	2.08E-03	ADRA2B,HPGD	2
+Cell-To-Cell Signaling and Interaction,Molecular Transport,Small Molecule Biochemistry	Secretion of catecholamine	2.08E-03	ADRA2B,KCNA2	2
+Cardiovascular Disease,Organismal Injury and Abnormalities	Ventricular tachycardia	2.13E-03	ADRA2B,KCNJ5	2
+Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities	Autosomal dominant epilepsy	2.13E-03	ADRA2B,KCNA2	2
+Cellular Development,Cellular Growth and Proliferation,Hematological System Development and Function,Lymphoid Tissue Structure and Development,Organ Development,Tissue Development	Proliferation of splenocytes	2.22E-03	RNF128,TNFSF14	2
+Neurological Disease,Organismal Injury and Abnormalities	Epileptic seizure	2.24E-03	ADRA2B,HS3ST2,KCNA2	3
+Cell-To-Cell Signaling and Interaction,Cellular Assembly and Organization	Cell-cell adhesion of skin cancer cell lines	2.29E-03	GOLGA7B	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Spondylolysis	2.29E-03	ADRA2B	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Spine arthrosis	2.29E-03	ADRA2B	1
+Carbohydrate Metabolism,Drug Metabolism,Molecular Transport,Small Molecule Biochemistry	Export of hyaluronic acid	2.29E-03	KCNJ5	1
+Organismal Injury and Abnormalities,Psychological Disorders	Schizotypal personality disorder	2.29E-03	ADRA2B	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Symptomatic stage hypertension	2.29E-03	KCNJ5	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Non-psychotic major depressive disorder	2.29E-03	ADRA2B	1
+Organismal Injury and Abnormalities,Respiratory Disease	Restrictive pulmonary disease	2.29E-03	ADRA2B	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Gradual hair thinning	2.29E-03	KCNJ5	1
+Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Myocardial infarction	2.66E-03	ADRA2B,KCNJ1,KCNJ5	3
+Hematological Disease,Infectious Diseases,Organismal Injury and Abnormalities	Parasitemia	2.67E-03	ADRA2B,KCNJ5	2
+Molecular Transport	Secretion of molecule	3.03E-03	ADRA2B,KCNA2,KCNJ1,KCNJ5	4
+Cell Death and Survival,Embryonic Development	Apoptosis of cytotrophoblastic cells	3.06E-03	TNFSF14	1
+Cell-To-Cell Signaling and Interaction	Attachment of sarcoma cell lines	3.06E-03	AFAP1L1	1
+Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Muscle spasticity of upper limb	3.06E-03	ADRA2B	1
+Cardiovascular Disease,Developmental Disorder,Organismal Injury and Abnormalities	Acyanotic congenital heart disease	3.06E-03	ADRA2B	1
+Hair and Skin Development and Function	Skin turgor	3.06E-03	KCNJ1	1
+Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities	Familial myoclonus	3.21E-03	ADRA2B,KCNA2	2
+Cellular Development,Cellular Growth and Proliferation,Embryonic Development,Organismal Development,Tissue Development	Proliferation of mesenchymal cells	3.56E-03	ADRA2B,AFAP1L1	2
+Cardiovascular Disease,Organismal Injury and Abnormalities	Angina pectoris	3.62E-03	ADRA2B,KCNJ5	2
+Inflammatory Disease,Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Relapsing-remitting multiple sclerosis	3.68E-03	ADRA2B,KCNA2	2
+Neurological Disease,Organismal Injury and Abnormalities	Myoclonic seizure	3.74E-03	ADRA2B,KCNA2	2
+Cardiovascular System Development and Function,Organismal Development,Reproductive System Development and Function	Vascularization of labyrinthine zone of placenta	3.82E-03	ADRA2B	1
+Developmental Disorder,Hematological System Development and Function,Immunological Disease,Lymphoid Tissue Structure and Development,Organ Morphology,Organismal Injury and Abnormalities,Tissue Morphology	Lack of popliteal lymph node	3.82E-03	TNFSF14	1
+Developmental Disorder,Hematological System Development and Function,Immunological Disease,Lymphoid Tissue Structure and Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Morphology	Lack of brachial lymph node	3.82E-03	TNFSF14	1
+Cellular Development,Cellular Growth and Proliferation,Hematological System Development and Function,Hematopoiesis,Tissue Development	Colony formation of LSK cells	3.82E-03	TNFSF14	1
+Cell Morphology,Cell-To-Cell Signaling and Interaction,Cellular Assembly and Organization	Electrical resistance of tumor cell lines	3.82E-03	GOLGA7B	1
+Neurological Disease,Organismal Injury and Abnormalities	Reading disability	3.82E-03	ADRA2B	1
+Embryonic Development,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Respiratory Disease,Respiratory System Development and Function,Tissue Development	Thickness of interalveolar septa	3.82E-03	ADRA2B	1
+Drug Metabolism,Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Accumulation of prostaglandin E2	3.82E-03	HPGD	1
+Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Muscle spasticity	3.99E-03	ADRA2B,KCNA2	2
+Developmental Disorder,Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities	Syndromic X-linked mental retardation	4.31E-03	ADRA2B,KCNA2	2
+Cardiovascular Disease,Organismal Injury and Abnormalities	Disorder of coronary artery	4.39E-03	ADRA2B,KCNJ1,KCNJ5	3
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Facial erythema of rosacea	4.58E-03	ADRA2B	1
+Connective Tissue Development and Function,Connective Tissue Disorders,Developmental Disorder,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Development	Tarsal coalition	4.58E-03	ADRA2B	1
+Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Flatfoot	4.58E-03	ADRA2B	1
+Hematological System Development and Function,Lymphoid Tissue Structure and Development,Tissue Morphology	Quantity of effector memory RA-positive cytotoxic T cells	4.58E-03	TNFSF14	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Persistent erythema	4.58E-03	ADRA2B	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Entropion	4.58E-03	ADRA2B	1
+Developmental Disorder,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function	Aplasia of thumb	4.58E-03	ADRA2B	1
+Cellular Development,Cellular Growth and Proliferation	Colony formation of cholangiocarcinoma cell lines	4.58E-03	HPGD	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Eyebrow hypotrichosis	4.58E-03	KCNJ5	1
+Organismal Injury and Abnormalities	Chills	4.58E-03	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities	Moderate sedation	4.58E-03	ADRA2B	1
+Cell-To-Cell Signaling and Interaction,Hematological System Development and Function	Binding of Th2 cells	4.58E-03	TNFSF14	1
+Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Catatonia	4.58E-03	ADRA2B	1
+Cell Morphology,Cellular Assembly and Organization,Cellular Function and Maintenance	Polarization of plasma membrane	4.58E-03	KCNJ5	1
+Organismal Injury and Abnormalities,Respiratory Disease	Apnea	4.71E-03	ADRA2B,KCNA2	2
+Cardiovascular Disease,Organismal Injury and Abnormalities	Primary hypertension	5.13E-03	ADRA2B,KCNJ5	2
+Organismal Injury and Abnormalities,Renal and Urological Disease	Urination disorder	5.17E-03	ADRA2B,KCNJ1,TNFSF14	3
+Organismal Injury and Abnormalities	Chronic pain	5.27E-03	ADRA2B,KCNJ5	2
+Behavior,Nervous System Development and Function	Circadian rhythm	5.34E-03	HS3ST2,KCNA2	2
+Cell-To-Cell Signaling and Interaction,Cellular Function and Maintenance,Nervous System Development and Function	Discharge of neurons	5.34E-03	KCNJ1	1
+Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Trafficking of dendritic cells	5.34E-03	TNFSF14	1
+Dermatological Diseases and Conditions,Ophthalmic Disease,Organismal Injury and Abnormalities	Itchy red eye	5.34E-03	ADRA2B	1
+Molecular Transport,Nucleic Acid Metabolism,Small Molecule Biochemistry	Accumulation of adenosine	5.34E-03	TNFSF14	1
+Dermatological Diseases and Conditions,Immunological Disease,Ophthalmic Disease,Organismal Injury and Abnormalities	Animal dander and hair allergy related ocular itching	5.34E-03	ADRA2B	1
+Dermatological Diseases and Conditions,Immunological Disease,Ophthalmic Disease,Organismal Injury and Abnormalities	Ragweed allergy related ocular itching	5.34E-03	ADRA2B	1
+Immunological Disease,Ophthalmic Disease,Organismal Injury and Abnormalities	Animal dander and hair allergy related red eye	5.34E-03	ADRA2B	1
+Dermatological Diseases and Conditions,Immunological Disease,Ophthalmic Disease,Organismal Injury and Abnormalities	Grass allergy related ocular itching	5.34E-03	ADRA2B	1
+Immunological Disease,Ophthalmic Disease,Organismal Injury and Abnormalities	Ragweed allergy related red eye	5.34E-03	ADRA2B	1
+Immunological Disease,Ophthalmic Disease,Organismal Injury and Abnormalities	Grass allergy related red eye	5.34E-03	ADRA2B	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Paroxysmal atrial flutter	5.34E-03	ADRA2B	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Ectropion	5.34E-03	ADRA2B	1
+Gastrointestinal Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities	Severe stomatitis	5.34E-03	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities	Synkinesis	5.34E-03	ADRA2B	1
+Developmental Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Congenital clubfoot	6.11E-03	ADRA2B	1
+Cellular Function and Maintenance,Molecular Transport	Influx of Na+	6.11E-03	KCNJ5	1
+Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Bell palsy	6.11E-03	ADRA2B	1
+Cell-To-Cell Signaling and Interaction	Conjugation of leukemia cell lines	6.11E-03	RNF128	1
+Molecular Transport	Excretion of chloride	6.11E-03	KCNJ1	1
+Immunological Disease,Organismal Injury and Abnormalities	Abnormal immunological tolerance	6.11E-03	RNF128	1
+Endocrine System Development and Function,Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Release of aldosterone	6.11E-03	KCNJ5	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Tissue Morphology	Radius fracture	6.87E-03	ADRA2B	1
+Developmental Disorder,Hematological System Development and Function,Immunological Disease,Lymphoid Tissue Structure and Development,Organ Morphology,Organismal Injury and Abnormalities,Tissue Morphology	Lack of inguinal lymph node	6.87E-03	TNFSF14	1
+Protein Synthesis	Metabolism of toxin peptide	6.87E-03	FMO1	1
+Neurological Disease,Organismal Injury and Abnormalities	Light-headedness	6.87E-03	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities	Orthostatic dizziness	6.87E-03	ADRA2B	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Digenic short rib thoracic dysplasia 3/6 with polydactyly	6.87E-03	DYNLT2B	1
+Immunological Disease,Organismal Injury and Abnormalities	Exercise induced anaphylaxis	6.87E-03	ADRA2B	1
+Organismal Injury and Abnormalities,Respiratory Disease	Acute respiratory failure	6.87E-03	ADRA2B	1
+Cell-To-Cell Signaling and Interaction	Conjugation of lymphoma cell lines	6.87E-03	RNF128	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Acute hypotension	6.87E-03	ADRA2B	1
+Cell Morphology,Cell-mediated Immune Response,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Embryonic Development,Hematological System Development and Function,Hematopoiesis,Lymphoid Tissue Structure and Development,Organ Development,Organismal Development,Tissue Development	Conversion of CD4+ T-lymphocytes	6.87E-03	RNF128	1
+Cardiovascular Disease,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities	Familial congenital heart disease	7.45E-03	ADRA2B,KCNJ5	2
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Sleep Disorders	7.45E-03	ADRA2B,KCNA2	2
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Abnormal quantity of prostaglandin	7.63E-03	HPGD	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Non-obstructive coronary artery disease	7.63E-03	KCNJ5	1
+Protein Synthesis	Quantity of IL-2 in blood	7.63E-03	RNF128	1
+Gastrointestinal Disease,Hepatic System Disease,Organismal Injury and Abnormalities,Renal and Urological Disease	Type 1 hepatorenal syndrome	7.63E-03	ADRA2B	1
+Gastrointestinal Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	Tonsillitis	7.63E-03	ADRA2B	1
+Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	Moderate bronchiolitis	7.63E-03	ADRA2B	1
+Organismal Injury and Abnormalities	Frailty syndrome	8.39E-03	ADRA2B	1
+Organismal Injury and Abnormalities,Respiratory Disease	Hemoptysis	8.39E-03	ADRA2B	1
+Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	Acute bronchiolitis	8.39E-03	ADRA2B	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Shoulder impingement syndrome	8.39E-03	ADRA2B	1
+Organismal Injury and Abnormalities	Minor body ache	8.39E-03	ADRA2B	1
+Organismal Functions	Tolerization	8.39E-03	RNF128	1
+Cardiovascular Disease,Neurological Disease,Organismal Injury and Abnormalities	Neurogenic orthostatic hypotension	8.39E-03	ADRA2B	1
+Cellular Function and Maintenance,Molecular Transport	Absorption of water	8.39E-03	TNFSF14	1
+Organismal Injury and Abnormalities,Psychological Disorders	Intermittent explosive disorder	8.39E-03	ADRA2B	1
+Cell-To-Cell Signaling and Interaction,Molecular Transport,Small Molecule Biochemistry	Secretion of neurotransmitter	8.75E-03	ADRA2B,KCNA2	2
+Cell Signaling,Molecular Transport,Vitamin and Mineral Metabolism	Concentration of Ca2+	9.12E-03	KCNJ5,TNFSF14	2
+Organismal Injury and Abnormalities	Postoperative hemorrhage	9.15E-03	ADRA2B	1
+Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Paroxysmal atrial fibrillation	9.15E-03	ADRA2B	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities,Respiratory Disease	Throat pruritus	9.15E-03	ADRA2B	1
+Cardiovascular System Development and Function,Skeletal and Muscular System Development and Function	Contraction of vascular smooth muscle	9.15E-03	ADRA2B	1
+Dermatological Diseases and Conditions,Ophthalmic Disease,Organismal Injury and Abnormalities	Itchy watery eye	9.15E-03	ADRA2B	1
+Organismal Injury and Abnormalities,Psychological Disorders	Restlessness	9.15E-03	ADRA2B	1
+Cancer,Organismal Injury and Abnormalities	Abdominal adenocarcinoma	9.20E-03	ADRA2B,AFAP1L1,DNASE2B,FMO1,GOLGA7B,HPGD,HS3ST2,KCNA2,KCNJ1,KCNJ5,NCAPH,PGBD5,RNF128,STUM,TNFSF14,TRHDE,ZBTB7C	17
+Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Atrial fibrillation	9.59E-03	ADRA2B,KCNJ5	2
+Inflammatory Disease,Inflammatory Response,Organ Morphology,Organismal Injury and Abnormalities,Respiratory Disease	Swelling of nose	9.90E-03	ADRA2B	1
+Cell-To-Cell Signaling and Interaction,Hematological System Development and Function	Binding of Th1 cells	9.90E-03	TNFSF14	1
+Organismal Injury and Abnormalities	Distributive shock response	9.90E-03	ADRA2B	1
+Gastrointestinal Disease,Hepatic System Disease,Organismal Injury and Abnormalities	End stage liver disease	9.90E-03	ADRA2B	1
+Cell Cycle	Chromosome separation	9.90E-03	NCAPH	1
+Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	Croup	9.90E-03	ADRA2B	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities	Hypomobility	9.90E-03	ADRA2B	1
+Cancer,Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Skin cancer	9.95E-03	ADRA2B,AFAP1L1,FMO1,GOLGA7B,HPGD,HS3ST2,KCNA2,KCNJ1,KCNJ5,NCAPH,PGBD5,RNF128,TNFSF14,TRHDE,ZBTB7C	15
+Organismal Injury and Abnormalities,Respiratory Disease	Respiratory failure	1.05E-02	ADRA2B,KCNJ5	2
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Tissue Morphology	Closed fracture	1.07E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Respiratory Disease	Sinus congestion	1.07E-02	ADRA2B	1
+Cell Morphology,Cell-mediated Immune Response,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Embryonic Development,Hematological System Development and Function,Hematopoiesis,Lymphoid Tissue Structure and Development,Organ Development,Organismal Development,Tissue Development	Conversion of regulatory T lymphocytes	1.07E-02	RNF128	1
+Connective Tissue Disorders,Inflammatory Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Trigger finger disorder	1.07E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Psychological Disorders	Adjustment disorder	1.07E-02	ADRA2B	1
+Digestive System Development and Function,Gastrointestinal Disease,Hematological System Development and Function,Lymphoid Tissue Structure and Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Morphology	Lack of Peyer's patches	1.07E-02	TNFSF14	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Acute manic episode of bipolar I disorder	1.07E-02	ADRA2B	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Spondylolisthesis	1.07E-02	ADRA2B	1
+Cardiovascular Disease,Cardiovascular System Development and Function,Organismal Injury and Abnormalities,Tissue Morphology	Abnormal regression of vasculature	1.07E-02	HPGD	1
+Connective Tissue Disorders,Developmental Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Dysplasia of hip bone	1.07E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Reproductive System Disease	Priapism	1.07E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Respiratory Disease	Sinus pressure	1.07E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities	Postdural puncture headache	1.14E-02	ADRA2B	1
+Cell Cycle	Chromosome condensation	1.14E-02	NCAPH	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities,Respiratory Disease	Nasal pruritus	1.14E-02	ADRA2B	1
+Immunological Disease,Ophthalmic Disease,Organismal Injury and Abnormalities	Ocular graft versus host disease	1.14E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities	Tonic seizure	1.14E-02	KCNA2	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Recurrent colon cancer	1.14E-02	ADRA2B	1
+DNA Replication, Recombination, and Repair	Condensation of mitotic chromosomes	1.14E-02	NCAPH	1
+Dermatological Diseases and Conditions,Organ Morphology,Organismal Injury and Abnormalities	Abnormal morphology of wrinkled skin	1.14E-02	KCNJ1	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities	Familial congenital malformation	1.16E-02	ADRA2B,DYNLT2B,HPGD,KCNJ1,KCNJ5,NCAPH	6
+Organismal Injury and Abnormalities,Psychological Disorders	Emotional lability	1.22E-02	ADRA2B	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Refractory hemodynamically unstable ventricular tachycardia	1.22E-02	KCNJ5	1
+Cardiovascular Disease,Developmental Disorder,DNA Replication, Recombination, and Repair,Endocrine System Disorders,Hereditary Disorder,Immunological Disease,Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Shprintzen syndrome	1.22E-02	ADRA2B	1
+Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Longstanding persistent atrial fibrillation	1.22E-02	KCNJ5	1
+Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Recurrent ventricular fibrillation	1.22E-02	KCNJ5	1
+Drug Metabolism,Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry,Vitamin and Mineral Metabolism	Concentration of tretinoin	1.22E-02	HPGD	1
+Hematological System Development and Function,Immunological Disease,Lymphoid Tissue Structure and Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Morphology	Abnormal morphology of enlarged mesenteric lymph node	1.22E-02	RNF128	1
+Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Refractory ventricular fibrillation	1.22E-02	KCNJ5	1
+DNA Replication, Recombination, and Repair,Energy Production,Nucleic Acid Metabolism,Small Molecule Biochemistry	Oxidation of NADPH	1.22E-02	FMO1	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities	Adrenal gland tumor	1.25E-02	ADRA2B,KCNJ5	2
+Behavior,Organismal Injury and Abnormalities,Psychological Disorders	Self-abusive behavior	1.29E-02	ADRA2B	1
+Developmental Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Polysyndactyly	1.29E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Rotator cuff tear	1.29E-02	ADRA2B	1
+Cardiovascular Disease,Developmental Disorder,Organismal Injury and Abnormalities	Patent ductus arteriosus	1.29E-02	HPGD	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Gastrointestinal carcinoma	1.31E-02	ADRA2B,AFAP1L1,FMO1,GOLGA7B,HPGD,HS3ST2,KCNA2,KCNJ1,KCNJ5,NCAPH,PGBD5,RNF128,STUM,TNFSF14,TRHDE,ZBTB7C	16
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Colon tumor	1.35E-02	ADRA2B,AFAP1L1,FMO1,HPGD,KCNJ5,PGBD5,RNF128,STUM,TNFSF14,TRHDE,ZBTB7C	11
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Vertebral fusion	1.37E-02	ADRA2B	1
+Cardiovascular Disease,Neurological Disease,Ophthalmic Disease,Organismal Injury and Abnormalities	Nonarteritic ischemic optic neuropathy	1.37E-02	KCNA2	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Androgenic alopecia	1.37E-02	KCNJ5	1
+Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Permanent atrial fibrillation	1.37E-02	KCNJ5	1
+Cardiovascular Disease,Neurological Disease,Organismal Injury and Abnormalities	Orthostatic intolerance	1.37E-02	ADRA2B	1
+Cardiovascular Disease,Hematological Disease,Infectious Diseases,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Chagas cardiomyopathy	1.37E-02	KCNJ5	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Chronic hypertension	1.37E-02	ADRA2B	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Digestive system cancer	1.43E-02	ADRA2B,AFAP1L1,DNASE2B,FMO1,GOLGA7B,HPGD,HS3ST2,KCNA2,KCNJ1,KCNJ5,NCAPH,PGBD5,RNF128,STUM,TNFSF14,TRHDE,ZBTB7C	17
+Inflammatory Disease,Ophthalmic Disease,Organismal Injury and Abnormalities	Keratoconjunctivitis sicca	1.44E-02	ADRA2B	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Tissue Morphology	Ankle fracture	1.44E-02	ADRA2B	1
+Endocrine System Disorders,Gastrointestinal Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities	Post-endoscopic retrograde cholangiopancreatography acute pancreatitis	1.44E-02	ADRA2B	1
+Cardiovascular Disease,Developmental Disorder,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities	Dopamine beta-hydroxylase deficiency	1.44E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities,Respiratory Disease,Skeletal and Muscular Disorders	Bronchospasm	1.44E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Respiratory Disease	Wheeze	1.44E-02	ADRA2B	1
+Cardiovascular Disease,Organismal Injury and Abnormalities,Respiratory Disease	Cardiorespiratory arrest	1.44E-02	ADRA2B	1
+Cell Morphology,Hematological System Development and Function,Immunological Disease,Lymphoid Tissue Structure and Development,Organismal Injury and Abnormalities	Abnormal morphology of gamma-delta T lymphocytes	1.44E-02	TNFSF14	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Acute coronary syndrome	1.48E-02	ADRA2B,KCNJ5	2
+Organismal Injury and Abnormalities	Treatment pain	1.52E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities	Nerve injury	1.52E-02	KCNA2	1
+Organismal Injury and Abnormalities,Renal and Urological Disease	Stress incontinence	1.52E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Psychological Disorders	Cannabis dependence	1.52E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Respiratory Disease	Rhinorrhea	1.52E-02	ADRA2B	1
+Hematological Disease,Neurological Disease,Organismal Injury and Abnormalities	Disrupted blood brain barrier	1.52E-02	ADRA2B	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Appendix cancer	1.52E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Undifferentiated schizophrenia	1.52E-02	ADRA2B	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Abnormality of cartilage tissue	1.59E-02	ADRA2B,TNFSF14	2
+Dental Disease,Gastrointestinal Disease,Inflammatory Disease,Organismal Injury and Abnormalities	Symptomatic irreversible pulpitis	1.60E-02	ADRA2B	1
+Developmental Disorder,Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	X-linked myoclonic epilepsy with generalized spasticity and intellectual disability	1.60E-02	KCNA2	1
+Cell Cycle,Gene Expression	Binding of p53 consensus binding site	1.60E-02	ZBTB7C	1
+Cardiovascular Disease,Developmental Disorder,Organismal Injury and Abnormalities	Capillary malformation	1.60E-02	ADRA2B	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Low cardiac output	1.60E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Psychological Disorders	Oppositional defiant disorder	1.60E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Hebephrenic schizophrenia	1.60E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities	Walking disability	1.60E-02	KCNA2	1
+Cell-To-Cell Signaling and Interaction,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Activation of naive T lymphocytes	1.67E-02	RNF128	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Paranoid schizophrenia	1.67E-02	ADRA2B	1
+Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Symptomatic stage atrial fibrillation	1.67E-02	ADRA2B	1
+Cellular Development,Cellular Growth and Proliferation	Proliferation of cholangiocarcinoma cell lines	1.67E-02	HPGD	1
+Neurological Disease,Organismal Injury and Abnormalities	Unconsciousness	1.67E-02	ADRA2B	1
+Cardiovascular Disease,Developmental Disorder,Endocrine System Disorders,Hereditary Disorder,Organismal Injury and Abnormalities,Renal and Urological Disease	Williams-Beuren syndrome	1.67E-02	ADRA2B	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Symptomatic stage atrial flutter	1.67E-02	ADRA2B	1
+Cell Death and Survival,Organismal Injury and Abnormalities	Apoptosis of synovial fibroblasts	1.67E-02	TNFSF14	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Sustained ventricular tachycardia	1.67E-02	ADRA2B	1
+Organismal Injury and Abnormalities	Severe pain	1.67E-02	ADRA2B	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Prostate cancer	1.70E-02	ADRA2B,DNASE2B,KCNA2,KCNJ1,NCAPH,PGBD5,RNF128,STUM,TRHDE	9
+Reproductive System Development and Function	Parturition	1.75E-02	HPGD	1
+Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	Acute rhinosinusitis	1.75E-02	ADRA2B	1
+Auditory Disease,Inflammatory Disease,Organismal Injury and Abnormalities	Chronic otitis media	1.75E-02	ADRA2B	1
+Cell-To-Cell Signaling and Interaction,Cellular Growth and Proliferation,Hematological System Development and Function	Suppression of TREG cells	1.75E-02	RNF128	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Large intestine adenocarcinoma	1.79E-02	ADRA2B,AFAP1L1,FMO1,GOLGA7B,HPGD,HS3ST2,KCNJ1,KCNJ5,NCAPH,PGBD5,RNF128,STUM,TNFSF14,TRHDE,ZBTB7C	15
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Prostatic adenocarcinoma	1.81E-02	ADRA2B,DNASE2B,KCNA2,NCAPH,PGBD5,RNF128,STUM,TRHDE	8
+Energy Production,Lipid Metabolism,Small Molecule Biochemistry	Oxidation of fatty acid	1.82E-02	FMO1,HPGD	2
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Tissue Morphology	Femoral fracture	1.82E-02	ADRA2B	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Skin laceration	1.82E-02	ADRA2B	1
+Developmental Disorder,Organismal Injury and Abnormalities,Renal and Urological Disease,Reproductive System Disease	Hypospadia	1.82E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Respiratory Disease	Sneeze	1.82E-02	ADRA2B	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Rosacea	1.82E-02	ADRA2B	1
+Organ Morphology	Thickening of epidermis	1.82E-02	TNFSF14	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Spinal stenosis	1.82E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Respiratory Disease	Bronchopathy	1.83E-02	ADRA2B,HPGD	2
+Cancer,Cellular Development,Cellular Growth and Proliferation,Gastrointestinal Disease,Hepatic System Disease,Organismal Injury and Abnormalities,Tumor Morphology	Proliferation of liver cancer cells	1.90E-02	HPGD	1
+Organ Development,Renal and Urological System Development and Function	Glomerular filtration rate of kidney	1.90E-02	KCNJ1	1
+Organismal Injury and Abnormalities,Psychological Disorders	Methamphetamine dependence	1.90E-02	ADRA2B	1
+Cancer,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Hyperplasia of smooth muscle	1.90E-02	TNFSF14	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Anesthesia induced hypotension	1.90E-02	ADRA2B	1
+Developmental Disorder,Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Pseudobulbar affect	1.97E-02	ADRA2B	1
+Inflammatory Disease,Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Primary progressive multiple sclerosis	1.97E-02	KCNA2	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Degenerative disc disease	1.97E-02	ADRA2B	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Paroxysmal supraventricular tachycardia	1.97E-02	ADRA2B	1
+Connective Tissue Development and Function,Nervous System Development and Function,Skeletal and Muscular System Development and Function	Curvature of vertebral column	2.05E-02	TNFSF14	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders,Skeletal and Muscular Disorders	Idiopathic Parkinson disease	2.05E-02	ADRA2B	1
+Hematological System Development and Function,Immunological Disease,Lymphoid Tissue Structure and Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Morphology	Abnormal morphology of thymus medulla	2.05E-02	TNFSF14	1
+Molecular Transport	Excretion of K+	2.05E-02	KCNJ1	1
+Organismal Injury and Abnormalities,Psychological Disorders	Dental anxiety	2.05E-02	ADRA2B	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities	Abdominal neuroendocrine tumor	2.11E-02	ADRA2B,FMO1,TRHDE,ZBTB7C	4
+Developmental Disorder,Organismal Injury and Abnormalities	Aplasia	2.11E-02	ADRA2B,TNFSF14	2
+Organismal Injury and Abnormalities,Renal and Urological Disease	Syndromic kidney disease	2.11E-02	ADRA2B,KCNJ1	2
+Neurological Disease,Organismal Injury and Abnormalities	Subarachnoid aneurysmal hemorrhage	2.12E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Bipolar II disorder	2.12E-02	ADRA2B	1
+Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Right ventricular dilatation	2.12E-02	ADRA2B	1
+Carbohydrate Metabolism,Small Molecule Biochemistry	Synthesis of heparan sulfate proteoglycan	2.12E-02	HS3ST2	1
+Organismal Injury and Abnormalities,Reproductive System Disease	Impotence	2.12E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities	Migraine variant	2.20E-02	ADRA2B	1
+Cell Morphology,Connective Tissue Development and Function,Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Morphology	Abnormal morphology of chondrocytes	2.20E-02	TNFSF14	1
+Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Skelatal muscle spasticity	2.20E-02	ADRA2B	1
+Behavior	Sleep pattern	2.20E-02	KCNA2	1
+Organismal Injury and Abnormalities,Renal and Urological Disease	Polydipsia	2.20E-02	KCNJ1	1
+Neurological Disease,Organismal Injury and Abnormalities	Akinesia	2.27E-02	ADRA2B	1
+Inflammatory Disease,Organismal Injury and Abnormalities,Respiratory Disease	Vasomotor rhinitis	2.35E-02	ADRA2B	1
+Developmental Disorder,Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Asperger syndrome	2.35E-02	ADRA2B	1
+Molecular Transport,Renal and Urological System Development and Function	Natriuresis	2.35E-02	KCNJ1	1
+Ophthalmic Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Ptosis	2.35E-02	ADRA2B	1
+Organismal Injury and Abnormalities	Refractory pain	2.35E-02	ADRA2B	1
+Embryonic Development,Organismal Development,Tissue Development	Development of yolk sac	2.35E-02	ADRA2B	1
+Cancer,Organismal Injury and Abnormalities	Cancer of secretory structure	2.42E-02	ADRA2B,AFAP1L1,DNASE2B,FMO1,HPGD,HS3ST2,KCNA2,KCNJ1,KCNJ5,NCAPH,PGBD5,RNF128,STUM,TNFSF14,TRHDE,ZBTB7C	16
+Connective Tissue Development and Function,Connective Tissue Disorders,Nervous System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Development	Abnormal morphology of thoracic vertebra	2.42E-02	TNFSF14	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Angle-closure glaucoma	2.42E-02	ADRA2B	1
+Immunological Disease,Inflammatory Disease,Ophthalmic Disease,Organismal Injury and Abnormalities,Respiratory Disease	Allergic rhinoconjunctivitis	2.42E-02	ADRA2B	1
+Hematological System Development and Function,Immunological Disease,Inflammatory Disease,Lymphoid Tissue Structure and Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Morphology	Enlargement of spleen	2.47E-02	RNF128,TNFSF14	2
+Cellular Function and Maintenance,Molecular Transport,Small Molecule Biochemistry	Quantity of chloride	2.50E-02	KCNJ1	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Prolapsed lumbar intervertebral disc	2.50E-02	ADRA2B	1
+Endocrine System Development and Function,Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Secretion of aldosterone	2.50E-02	KCNJ5	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Alcohol withdrawal syndrome	2.50E-02	ADRA2B	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Colon adenocarcinoma	2.57E-02	ADRA2B,AFAP1L1,FMO1,KCNJ5,PGBD5,RNF128,STUM,TNFSF14,TRHDE,ZBTB7C	10
+Cardiovascular Disease,Organismal Injury and Abnormalities	Valvular regurgitation of mitral valve	2.57E-02	ADRA2B	1
+Connective Tissue Development and Function,Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Development	Abnormal morphology of compact bone	2.57E-02	TNFSF14	1
+Cellular Function and Maintenance,Hematological System Development and Function	Function of T lymphocytes	2.62E-02	RNF128,TNFSF14	2
+Cell Death and Survival	Cytolysis by cytotoxic T cells	2.65E-02	TNFSF14	1
+Organismal Injury and Abnormalities	Hot flashes	2.65E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Respiratory Disease	Nasal congestion	2.65E-02	ADRA2B	1
+Small Molecule Biochemistry	Release of hormone	2.65E-02	KCNJ1	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Carotid artery stenosis	2.72E-02	ADRA2B	1
+Hematological System Development and Function	Hematocrit of blood	2.72E-02	KCNJ1	1
+Cancer	Transformation of fibroblast cell lines	2.78E-02	AFAP1L1,PGBD5	2
+Developmental Disorder,Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Stuttering	2.79E-02	ADRA2B	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Early gastric cancer	2.79E-02	ADRA2B	1
+Immunological Disease,Inflammatory Disease,Organismal Injury and Abnormalities,Respiratory Disease	Seasonal allergic rhinitis	2.79E-02	ADRA2B	1
+Connective Tissue Disorders,Developmental Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Dysplasia of skeleton	2.84E-02	ADRA2B,DYNLT2B	2
+Cell-To-Cell Signaling and Interaction,Drug Metabolism,Molecular Transport,Small Molecule Biochemistry	Secretion of norepinephrine	2.87E-02	ADRA2B	1
+Endocrine System Development and Function,Lipid Metabolism,Small Molecule Biochemistry,Vitamin and Mineral Metabolism	Synthesis of aldosterone	2.87E-02	KCNJ5	1
+Organismal Injury and Abnormalities,Psychological Disorders	Suicidal ideation	2.94E-02	ADRA2B	1
+Cardiovascular Disease,Ophthalmic Disease,Organismal Injury and Abnormalities	Hypertension of eye	2.94E-02	ADRA2B	1
+Cell Cycle,Gene Expression	Binding of Sp1 binding site	2.94E-02	ZBTB7C	1
+Organismal Injury and Abnormalities,Psychological Disorders	Psychotic depression	3.02E-02	ADRA2B	1
+Immunological Disease,Inflammatory Disease,Organismal Injury and Abnormalities,Respiratory Disease	Perennial allergic rhinitis	3.02E-02	ADRA2B	1
+Cell Cycle,Cellular Development,Connective Tissue Development and Function	Replicative senescence of fibroblast cell lines	3.09E-02	NCAPH	1
+Cell-To-Cell Signaling and Interaction,Drug Metabolism,Molecular Transport,Small Molecule Biochemistry	Secretion of dopamine	3.09E-02	KCNA2	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities	Prader-Willi syndrome	3.09E-02	ADRA2B	1
+Organismal Functions	Basal metabolic rate	3.17E-02	ADRA2B	1
+Embryonic Development,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Respiratory Disease,Respiratory System Development and Function,Tissue Development	Abnormal morphology of interalveolar septa	3.17E-02	ADRA2B	1
+Gastrointestinal Disease,Organismal Injury and Abnormalities	Postoperative ileus	3.17E-02	ADRA2B	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Strabismus	3.24E-02	ADRA2B	1
+Cardiovascular Disease,Neurological Disease,Organismal Injury and Abnormalities	Stroke	3.31E-02	ADRA2B,KCNJ1	2
+Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Psychomotor agitation	3.32E-02	ADRA2B	1
+Dermatological Diseases and Conditions,Immunological Disease,Inflammatory Disease,Organismal Injury and Abnormalities	Urticaria	3.32E-02	ADRA2B	1
+Organismal Injury and Abnormalities	Chronic lower back pain	3.32E-02	ADRA2B	1
+Cancer,Organismal Injury and Abnormalities	Intraabdominal organ tumor	3.32E-02	ADRA2B,AFAP1L1,DNASE2B,FMO1,GOLGA7B,HPGD,HS3ST2,KCNA2,KCNJ1,KCNJ5,NCAPH,PGBD5,RNF128,STUM,TNFSF14,TRHDE,ZBTB7C	17
+Connective Tissue Disorders,Hereditary Disorder,Organismal Injury and Abnormalities	Hereditary connective tissue disorder	3.39E-02	DYNLT2B,HPGD,NCAPH	3
+Gastrointestinal Disease,Infectious Diseases,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	The common cold	3.46E-02	ADRA2B	1
+Developmental Disorder,Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities	Fragile X syndrome	3.46E-02	ADRA2B	1
+Nervous System Development and Function	Brain wave	3.46E-02	KCNA2	1
+Cardiovascular System Development and Function,Organ Development	Heart rate	3.49E-02	ADRA2B,KCNJ5	2
+Cellular Function and Maintenance,Hematological System Development and Function	Function of regulatory T lymphocytes	3.54E-02	RNF128	1
+Neurological Disease,Organismal Injury and Abnormalities	Essential tremor	3.54E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities	Migraine without aura	3.54E-02	ADRA2B	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Chronic stable angina	3.54E-02	KCNJ5	1
+Organismal Injury and Abnormalities,Respiratory Disease	Respiratory insufficiency	3.54E-02	ADRA2B	1
+Cardiovascular Disease,Gastrointestinal Disease,Hepatic System Disease,Organismal Injury and Abnormalities	Portal hypertension	3.54E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Psychological Disorders	First episode psychosis	3.61E-02	ADRA2B	1
+Inflammatory Disease,Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Secondary progressive multiple sclerosis	3.61E-02	KCNA2	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Detachment of retina	3.61E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities	Extrapyramidal syndrome	3.61E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Psychological Disorders	Panic disorder	3.61E-02	ADRA2B	1
+Cell-To-Cell Signaling and Interaction,Cellular Growth and Proliferation,Hematological System Development and Function	Co-stimulation of T lymphocytes	3.61E-02	TNFSF14	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Heart block	3.61E-02	KCNJ5	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Manic bipolar I disorder	3.61E-02	ADRA2B	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Development of digestive organ tumor	3.65E-02	ADRA2B,AFAP1L1,FMO1,HS3ST2,KCNA2,KCNJ5,PGBD5,RNF128,STUM,TNFSF14,TRHDE,ZBTB7C	12
+Cardiovascular Disease,Organismal Injury and Abnormalities	Chronic heart failure	3.69E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Refractory schizophrenia	3.69E-02	ADRA2B	1
+Cellular Function and Maintenance,Hematological System Development and Function	Function of cytotoxic T cells	3.69E-02	TNFSF14	1
+Organismal Injury and Abnormalities	Angioedema	3.69E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Relapsed schizophrenia	3.76E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function	Abnormal morphology of skeleton	3.77E-02	ADRA2B,TNFSF14	2
+Hematological Disease,Infectious Diseases,Organismal Injury and Abnormalities	Ebola hemorrhagic fever	3.83E-02	KCNJ5	1
+Endocrine System Disorders,Gastrointestinal Disease,Metabolic Disease,Ophthalmic Disease,Organismal Injury and Abnormalities	Diabetic retinopathy	3.83E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Mixed bipolar I disorder	3.91E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Respiratory Disease	Respiratory depression	3.91E-02	ADRA2B	1
+Cellular Function and Maintenance	Receptor-mediated endocytosis by cervical cancer cell lines	3.98E-02	GOLGA7B	1
+Organismal Injury and Abnormalities,Psychological Disorders	Drug abuse	3.98E-02	ADRA2B	1
+Cellular Development,Cellular Growth and Proliferation,Embryonic Development,Organismal Development,Tissue Development	Proliferation of mesenchymal stem cells	4.05E-02	AFAP1L1	1
+Cellular Movement	Invasion of bone cancer cell lines	4.05E-02	AFAP1L1	1
+Immunological Disease,Inflammatory Disease,Organismal Injury and Abnormalities	Atopic disease	4.06E-02	ADRA2B,TNFSF14	2
+Developmental Disorder,Neurological Disease,Organismal Injury and Abnormalities	Syndromic neurodevelopmental disorder	4.12E-02	ADRA2B,KCNA2	2
+Cellular Function and Maintenance	Clathrin mediated endocytosis by tumor cell lines	4.13E-02	GOLGA7B	1
+Organismal Injury and Abnormalities,Psychological Disorders	Alcohol abuse	4.13E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Psychological Disorders	Treatment resistant depression	4.13E-02	ADRA2B	1
+Cellular Movement	Invasion of sarcoma cell lines	4.20E-02	AFAP1L1	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Dry eye	4.20E-02	ADRA2B	1
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Primary open-angle glaucoma	4.20E-02	ADRA2B	1
+Behavior,Organismal Injury and Abnormalities,Psychological Disorders	Irritable behavior	4.27E-02	ADRA2B	1
+Endocrine System Disorders,Gastrointestinal Disease,Metabolic Disease,Neurological Disease,Organismal Injury and Abnormalities	Diabetic neuropathy	4.27E-02	ADRA2B	1
+Renal and Urological System Development and Function	Osmolality of urine	4.27E-02	KCNJ1	1
+Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	Chronic sinusitis	4.35E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Psychological Disorders	Borderline personality disorder	4.35E-02	ADRA2B	1
+Cell Morphology,Renal and Urological System Development and Function	Morphology of kidney cell lines	4.42E-02	AFAP1L1	1
+Cardiovascular Disease,Developmental Disorder,Organismal Injury and Abnormalities	Atrial septal defect	4.42E-02	ADRA2B	1
+Renal and Urological System Development and Function	Homeostasis of urine	4.57E-02	KCNJ1	1
+Cell Morphology,Cellular Assembly and Organization,Cellular Function and Maintenance	Formation of invadopodia	4.57E-02	AFAP1L1	1
+Neurological Disease,Organismal Injury and Abnormalities	Cluster headache	4.57E-02	ADRA2B	1
+Inflammatory Response,Organismal Injury and Abnormalities	Inflammation of body cavity	4.57E-02	ADRA2B,HPGD,RNF128,TNFSF14	4
+Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Schizophreniform psychosis	4.64E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Obsessive-compulsive disorder	4.64E-02	ADRA2B	1
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Bipolar depression	4.64E-02	ADRA2B	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities	Extrapancreatic neuroendocrine tumor	4.67E-02	ADRA2B,FMO1,KCNA2,NCAPH,PGBD5,TRHDE,ZBTB7C	7
+Drug Metabolism,Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Concentration of prostaglandin E2	4.71E-02	HPGD	1
+Molecular Transport	Transmembrane transport of K+	4.79E-02	KCNA2	1
+Developmental Disorder,Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities	Autosomal recessive nonsyndromic mental retardation	4.79E-02	ADRA2B	1
+Nervous System Development and Function	Electrophysiology of nervous system	4.79E-02	KCNA2	1
+Cancer,Organismal Injury and Abnormalities	Head and neck carcinoma	4.83E-02	ADRA2B,AFAP1L1,FMO1,GOLGA7B,HPGD,HS3ST2,KCNJ1,KCNJ5,NCAPH,PGBD5,RNF128,STUM,TNFSF14,TRHDE,ZBTB7C	15
+Infectious Diseases,Organismal Injury and Abnormalities	Severe sepsis	4.86E-02	ADRA2B	1
+Organismal Injury and Abnormalities,Psychological Disorders	Generalized anxiety disorder	4.86E-02	ADRA2B	1
+Cancer,Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Cutaneous melanoma	4.91E-02	ADRA2B,AFAP1L1,FMO1,HPGD,HS3ST2,KCNA2,KCNJ1,KCNJ5,PGBD5,RNF128,TNFSF14,TRHDE,ZBTB7C	13
+Neurological Disease,Organismal Injury and Abnormalities	Migraine with aura	4.93E-02	ADRA2B	1
+Cancer,Endocrine System Disorders,Neurological Disease,Organismal Injury and Abnormalities	Pheochromocytoma	4.93E-02	ADRA2B	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Unstable angina	4.93E-02	KCNJ5	1
+Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Fibromyalgia	4.93E-02	ADRA2B	1
